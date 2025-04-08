@@ -1,0 +1,1 @@
+console.log("Hand Sign Detector is running!");
